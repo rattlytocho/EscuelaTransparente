@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Escuela Transparente</string>
+    <string name="no_internet">"Revisa tu conexión a intentalo mas tarde."</string>
+</resources>
